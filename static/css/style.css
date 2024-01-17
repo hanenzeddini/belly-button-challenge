@@ -1,0 +1,13 @@
+#sample-metadata {
+    max-height: 300px; 
+    overflow: auto;
+  }
+  
+  #sample-metadata p {
+    margin-bottom: 10px;
+  }
+  
+  .panel-body {
+    display: flex;
+    flex-direction: column;
+  }
